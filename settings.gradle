@@ -1,0 +1,3 @@
+rootProject.name = "Cliff"
+include ':app'
+include ':cliff'
